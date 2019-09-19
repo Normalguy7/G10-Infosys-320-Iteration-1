@@ -8,3 +8,6 @@ Package branch with unity packages such as buttons etc.
 
 
 You can also drag and drop your exported packages onto gitHub
+
+
+Make sure you have a backup on your computer for accident purposes
